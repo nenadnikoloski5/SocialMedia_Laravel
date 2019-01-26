@@ -9,7 +9,7 @@
 
 ## SPA using Laravel and Vue with authentication
 
-## Meet'n'Greet, The Social Media That Doesn't Forget
+ Meet'n'Greet, The Social Media That Doesn't Forget
 
 
 ## About Laravel
